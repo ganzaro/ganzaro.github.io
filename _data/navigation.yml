@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "DataEng"
     url: /dataeng/
-  - title: "Demos"
-    url: /demo/
+  # - title: "Demos"
+  #   url: /demo/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
