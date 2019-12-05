@@ -1,5 +1,5 @@
 ---
-# layout: archive
+layout: archive
 title: "Demo"
 permalink: /dataeng/
 # header:
