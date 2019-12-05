@@ -1,6 +1,7 @@
 ---
+# layout: archive
 title: "Demo"
-permalink: /demo/
+permalink: /dataeng/
 # header:
 ---
 
