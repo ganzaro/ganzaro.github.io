@@ -4,8 +4,8 @@ main:
     url: /about/
   # - title: "Data Engineering"
   #   url: /data-eng/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Demos"
+    url: /demo/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
