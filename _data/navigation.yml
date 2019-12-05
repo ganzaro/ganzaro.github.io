@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  # - title: "Data Engineering"
-  #   url: /dataeng/
+  - title: "Data Engineering"
+    url: /data-eng/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
