@@ -1,10 +1,10 @@
 ---
-title: "Project 2"
-date: 2019-04-28
-tags: [data wrangling, data science, messy data]
-header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+title: "Blossom Academy Project 1"
+date: 2019-12-06
+tags: [data engineering, python]
+# header:
+#   image: "/images/perceptron/percept.jpg"
+excerpt: "Data Engineering"
 mathjax: "true"
 ---
 
